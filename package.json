@@ -1,0 +1,16 @@
+{
+  "name": "physicsCanvasMatter.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "matter-js": "^0.13.0",
+    "webpack": "^3.4.1"
+  }
+}
